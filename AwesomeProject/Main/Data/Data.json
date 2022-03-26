@@ -1,0 +1,52 @@
+[
+    {
+        "no" : "0",
+        "PelAwal" : "Bakauheni",
+        "PelAkhir": "Merak",
+        "Layanan": "Express",
+        "Tanggal": "01-01-2021",
+        "Waktu": "08:00",
+        "Tipe": "Dewasa",
+        "Harga": 25000
+    },
+    {
+        "no" : "1",
+        "PelAwal" : "Merak",
+        "PelAkhir": "Bakauheni",
+        "Layanan": "Express",
+        "Tanggal": "02-01-2021",
+        "Waktu": "09:00",
+        "Tipe": "Dewasa",
+        "Harga": 25000
+    },
+    {
+        "no" : "2",
+        "PelAwal" : "Cirebon",
+        "PelAkhir": "Merak",
+        "Layanan": "Reguler",
+        "Tanggal": "09-01-2021",
+        "Waktu": "10:00",
+        "Tipe": "Dewasa",
+        "Harga": 30000
+    },
+    {
+        "no" : "3",
+        "PelAwal" : "Merak",
+        "PelAkhir": "Cirebon",
+        "Layanan": "Reguler",
+        "Tanggal": "11-01-2021",
+        "Waktu": "11:00",
+        "Tipe": "Dewasa",
+        "Harga": 30000
+    },
+    {
+        "no" : "4",
+        "PelAwal" : "Bakauheni",
+        "PelAkhir": "Merak",
+        "Layanan": "Express",
+        "Tanggal": "01-01-2021",
+        "Waktu": "08:00",
+        "Tipe": "Dewasa",
+        "Harga": 25000
+    }
+]
