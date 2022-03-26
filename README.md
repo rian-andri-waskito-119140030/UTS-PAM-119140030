@@ -1,5 +1,7 @@
 # UTS-PAM-119140030
 App Kapalzy </br>
+Nama: Rian Andri Waskito </br>
+</br>
 Aplikasi yang dibuat adalah aplikasi pemesanan tiket kapal. Dalam Aplikasi ini terdapat menu buat tiket, pesanan, pembatalan, dan menu. 
 
 ![Screenshot_1648292271](https://user-images.githubusercontent.com/82927821/160236790-ef180bf2-fb94-4b99-8bdf-2282a55ac83b.png)
